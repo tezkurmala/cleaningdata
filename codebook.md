@@ -7,12 +7,12 @@ DATA DICTIONARY - Human Activity Recognition Using Smartphones
 **Activity** 18 
   * Activity the subject was performing when the observation was taken.
   * Following are valid values.
-  * WALKING
-  * WALKING_UPSTAIRS
-  * WALKING_DOWNSTAIRS
-  * SITTING
-  * STANDING
-  * LAYING
+    * WALKING
+    * WALKING_UPSTAIRS
+    * WALKING_DOWNSTAIRS
+    * SITTING
+    * STANDING
+    * LAYING
 
 **timeBodyAccelerometerMeanOfX** 13
   * Average of body acceleration signals captured over an accelerometer on axial X.
